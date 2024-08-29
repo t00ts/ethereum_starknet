@@ -1,0 +1,15 @@
+{
+  "name": "call_starknet",
+  "version": "0.1.0",
+  "keywords": ["starknet", "sendmessagetol2"],
+  "author": "Abel E <abel@equilibrium.co>",
+  "description": "Example of how to call a Starknet contract from Ethereum",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.9"
+  },
+  "dependencies": {
+    "ethers": "^6.13.2"
+  }
+}
